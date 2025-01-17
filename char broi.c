@@ -12,6 +12,8 @@ int main() {
     }
 
     printf("Capital letters: %d\nSmall letters: %d\nDigits: %d\n", up, low, dig);
+
+    printf("TI SI UCHENIK PLUS");
     printf("TI SI UCHENIK w 8 klas");
     return 0;
 }
